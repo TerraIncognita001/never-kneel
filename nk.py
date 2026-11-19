@@ -234,7 +234,7 @@ def main(path):
     final = wd / "final.mp4"
     if bed:
         mix = (f"[1:a][2:a]amix=inputs=2:duration=first:normalize=0,"
-               f"loudnorm=I=-14:TP=-1.5,alimiter=limit=0.85[a]")
+               f"loudnorm=I=-14:TP=-2,alimiter=limit=0.79:level=false[a]")
         run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(video), "-i", str(vtrack), "-i", str(bed),
              "-filter_complex", mix, "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k",
              "-shortest", "-movflags", "+faststart", str(final)])
