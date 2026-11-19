@@ -1,0 +1,109 @@
+{
+ "id": "come-collect",
+ "title": "An Empire Gave Earth 30 Days to Surrender Every Warship — The Admiral Replied: \"Come COLLECT.\"",
+ "description": "The Varn Hegemony has disarmed forty young species in a thousand years, and now it orders humanity to hand over every warship it owns within thirty days. While the Coalition Assembly panics, Fleet Admiral Mara Quinn asks for one thing: the right to answer the envoy herself. Her reply is two words long. Settle in for an original HFY story about the day an empire came to collect, and found nothing to take.",
+ "tags": [
+  "HFY",
+  "HFY stories",
+  "humans are space orcs",
+  "sci-fi story",
+  "galactic empire",
+  "space opera",
+  "narrated sci-fi"
+ ],
+ "hashtags": "#HFY #HFYStories #HumansAreSpaceOrcs #SciFiStories #NeverKneel",
+ "thumb": {
+  "words": "30 DAYS TO KNEEL",
+  "key": "KNEEL",
+  "image": "{QUINN}, standing at a panoramic window of a dark starship bridge, hundreds of alien grey dreadnoughts in orbit over Earth behind her, tense standoff",
+  "seed": 31
+ },
+ "cast": {
+  "QUINN": "an elderly 61-year-old woman fleet admiral, wrinkled face, short silver hair pulled back tight, a thin pale scar from her left ear to her collar, stern calm eyes, black high-collar naval uniform with silver rank insignia",
+  "TAL": "a tall grey-skinned alien envoy with a long narrow skull, deep-set black eyes and ornate silver robes",
+  "DETHKA": "an old hulking grey-skinned alien war admiral with ridged skull and heavy bronze armour"
+ },
+ "style": "cinematic science fiction digital painting, dramatic lighting, highly detailed, film still, wide 16:9",
+ "scenes": [
+  {
+   "img": "a giant holographic broadcast of {TAL} appearing over a futuristic human city at night, crowds looking up",
+   "seed": 1,
+   "text": "The message arrived on every screen at once. It came through every relay in human space, in every language the Varn had bothered to learn, and it was very short. The Hegemony of Varn, keeper of nine hundred worlds, informed the young species called humanity that its fleet was now illegal. Humanity had thirty days to deliver every warship it owned to the Varn yards at Kessit. Every ship. Every crew. Every key."
+  },
+  {
+   "img": "{TAL} speaking calmly in a vast dark alien throne hall with banners",
+   "seed": 2,
+   "text": "The speaker was a Varn envoy named Ossric Tal, tall and grey, with a voice like a slow river. He did not threaten. He did not need to. He explained, in the patient tone of a teacher, that the Hegemony had disarmed forty younger peoples in the last thousand years, and that every one of them was still alive, and grateful. \"Those who refused,\" he added, \"are not on our maps any more.\""
+  },
+  {
+   "img": "a chaotic futuristic parliament chamber in Geneva, delegates shouting and standing on chairs, red alert lights",
+   "seed": 3,
+   "text": "On Earth, the markets closed within the hour. In the Coalition Assembly in Geneva, delegates shouted over one another for most of the night. Some wanted to negotiate. Some wanted to hand over the ships and pray. A man from the Mars colonies stood on his chair and demanded to know who, exactly, had given the Varn a reason to notice them at all."
+  },
+  {
+   "img": "{QUINN} standing quietly at the back of a dim crowded assembly chamber, watching",
+   "seed": 4,
+   "text": "Fleet Admiral Mara Quinn watched it all from the back of the chamber. She was sixty-one, small, with silver hair pulled tight and a scar that ran from her left ear to her collar, a gift from a pirate raid on Titan thirty years before. She had commanded the Coalition fleet for six years. In all that time she had never once raised her voice in this room."
+  },
+  {
+   "img": "a hologram comparing a tiny human fleet with a gigantic alien armada of thousands of ships, glowing blue and red",
+   "seed": 5,
+   "text": "When the Secretary-General finally called her to the floor, the chamber went quiet. Everyone knew the numbers. Humanity had two hundred and twelve warships. The Varn had more than eleven thousand. Their oldest dreadnought was older than the city of Rome. \"Admiral,\" the Secretary-General said, \"I need your honest assessment. Can we fight them?\""
+  },
+  {
+   "img": "close-up of {QUINN} at a speaker's podium, cold blue light, determined expression",
+   "seed": 6,
+   "text": "Quinn took a long moment before she answered. \"No, sir,\" she said. \"Not the way they fight.\" A wave of despair went through the room. Somewhere in the gallery, someone began to cry. Quinn waited for it to pass. \"Which is why,\" she said, \"we are not going to fight them the way they fight.\""
+  },
+  {
+   "img": "{QUINN} looking straight into a broadcast camera in a dark communications room, red on-air light",
+   "seed": 7,
+   "text": "She asked for one thing: permission to answer the envoy herself. The Assembly, which had no better idea, gave it to her. That evening, on the open channel, with nine hundred worlds listening, Admiral Mara Quinn looked into the camera and said exactly two words. \"Come collect.\" Then she ended the transmission."
+  },
+  {
+   "img": "{DETHKA} laughing in a grand alien war council chamber full of grey aliens",
+   "seed": 8,
+   "text": "Across the Hegemony, the reply was played again and again. Varn commentators called it the bravado of a doomed child. Ossric Tal called it sad. In the Varn high council, an old war admiral named Dethka laughed out loud and asked for the honour of collecting the ships himself. He was given four hundred dreadnoughts and told to be home before the season ended."
+  },
+  {
+   "img": "{QUINN} opening an old sealed metal file case in a dark archive, documents marked classified",
+   "seed": 9,
+   "text": "What none of them knew was what Quinn did with her thirty days. She did not build new warships. There was no time for that. Instead, she opened a file the Coalition had kept sealed since the Titan raids, a study of every pirate trick ever used against human shipping. Then she sent her two hundred ships away. Not to defend Earth. To vanish."
+  },
+  {
+   "img": "four hundred huge grey alien dreadnoughts arriving in perfect formation in orbit above Earth, blotting out the stars",
+   "seed": 10,
+   "text": "On the thirtieth day, Admiral Dethka's fleet dropped out of jump above Earth in perfect formation, four hundred hulls blotting out the stars over the Pacific. There was no human fleet waiting for him. Earth's orbit was empty. Dethka broadcast a demand for the ships. The only answer was a recorded message, playing on a loop. It said: \"Wrong address.\""
+  },
+  {
+   "img": "a gigantic alien orbital shipyard exploding in chains of fire, small dark human warships racing away",
+   "seed": 11,
+   "text": "At that same moment, nine light-years away, the Varn shipyards at Kessit, the very yards where humanity had been told to deliver its fleet, lit up like a second sun. Forty human ships had come out of hiding inside the yard's own cargo lanes, flying Varn codes taken from old salvage. The yards held a third of the Hegemony's ships under repair. In eleven minutes, every one of them was burning."
+  },
+  {
+   "img": "small sleek human warships striking a huge alien fuel depot station in deep space, explosions, speed",
+   "seed": 12,
+   "text": "Then the reports came in from everywhere else. The fuel depots at Arro. The relay station that carried Varn orders to half their frontier. The great food convoys from the farming worlds. Human ships hit each one, never staying more than a few minutes, never fighting a battle, always gone before the dreadnoughts arrived."
+  },
+  {
+   "img": "{DETHKA} on the bridge of his dreadnought staring at an empty sky over Earth, warning lights flashing",
+   "seed": 13,
+   "text": "Above Earth, Admiral Dethka found himself commanding the most powerful fleet in the sector, guarding an empty sky, while the Hegemony behind him came apart. His orders said to collect the ships. There were no ships to collect. When he finally turned for home, his supply lines were gone, and a third of his dreadnoughts ran dry before they reached the border."
+  },
+  {
+   "img": "{TAL} entering a plain military office where {QUINN} sits at a desk holding a chipped coffee mug",
+   "seed": 14,
+   "text": "Sixty days after the ultimatum, Ossric Tal asked for a meeting. This time he did not come to Geneva with demands. He came alone, on a small unarmed ship, and he asked to speak with the admiral. He found her in her office at fleet headquarters, drinking bad coffee out of a chipped mug."
+  },
+  {
+   "img": "close-up of a hand sliding a glowing data chip across a desk, holographic star map with dozens of red targets",
+   "seed": 15,
+   "text": "\"The Hegemony withdraws its request,\" he said carefully. \"It wishes to know what humanity wants.\" Quinn put down the mug. \"We want what we always wanted,\" she said. \"To be left alone. You can tell your council it's that, or it's this.\" She slid a data chip across the desk. On it was every Varn shipyard, depot and relay within a hundred light-years. Every one of them was marked."
+  },
+  {
+   "img": "{QUINN} standing alone at a large window of an orbital station looking down at Earth at dawn, peaceful",
+   "seed": 16,
+   "text": "The Treaty of Kessit was signed nine days later. Humanity kept every ship. The Varn closed their border to human space and did not open it again for a hundred years. In the Hegemony's archives, the war takes up a single line, the shortest entry for any conflict in ten thousand years. It reads: \"We came to collect. There was nothing to collect.\" And on a quiet shelf at fleet headquarters, there is still a chipped coffee mug that nobody is allowed to wash."
+  }
+ ]
+}

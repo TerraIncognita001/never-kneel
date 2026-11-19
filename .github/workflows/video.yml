@@ -1,0 +1,37 @@
+name: video
+on:
+  workflow_dispatch:
+    inputs:
+      story: {description: "stories/<id>.json", required: true, default: "stories/come-collect.json"}
+      img: {description: "cloudflare | pollinations", required: true, default: "cloudflare"}
+permissions: {contents: read}
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - name: music                      # YouTube Audio Library tracks are not redistributed in this PUBLIC repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository_owner }}/ww2-bot
+          token: ${{ secrets.ASSETS_TOKEN }}
+          path: _assets
+          sparse-checkout: music/jurgen_al
+      - run: mkdir -p music && cp _assets/music/jurgen_al/*.mp3 music/ && rm -rf _assets
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+      - run: pip install -q edge-tts pillow
+      - run: python nk.py "${{ inputs.story }}"
+        env:
+          TTS: edge
+          IMG: ${{ inputs.img }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: video
+          path: |
+            work/*/final.mp4
+            work/*/cover.png
+            work/*/metadata.json
+          retention-days: 7
