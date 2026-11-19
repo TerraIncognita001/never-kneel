@@ -4,7 +4,7 @@ Owner: Andrii (Ukrainian, short army-style answers, the best free option). Reply
 PUBLIC repo (unlimited Actions minutes): no secrets, tokens, e-mails or private notes in any file.
 
 ## What
-YouTube channel **Never Kneel** (@NeverKneelTales, not created yet): long narrated original sci-fi stories in the HFY
+YouTube channel **Never Kneel** (not created yet; the handle later, Andrii Nov 19): long narrated original sci-fi stories in the HFY
 genre ("Humanity F*** Yeah": an old alien empire underestimates young humanity, a calm veteran answers in 2-4 words,
 the hidden human trick, the empire pays). Model studied Nov 19 2026: @voidbornhumanity-u2u (Voidborn Humanity,
 905 subs, 16 videos Nov 1-14, ~14k views each, 33-150 min). We copy the GENRE and the shape, never their scripts,
